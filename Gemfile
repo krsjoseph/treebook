@@ -41,3 +41,5 @@ gem 'spring',        group: :development
 # gem 'protected_attributes'
 
 gem 'devise'
+
+gem 'simple_form'
